@@ -14,6 +14,6 @@ Due to historical access updates on my previous computing environment, the code 
 - ## 🛠️ Tech Stack & Data Science Tools
 *Here are the primary technologies and methodologies utilized throughout this research project:*
 
-* **Languages:** Python(Add others if used)
-* **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn (Add ML frameworks like PyTorch/XGBoost if used)
+* **Languages:** Python
+* **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn,Tensorflow,Keras
 * **Core Concepts:** Exploratory Data Analysis (EDA), Feature Engineering, Model Training, Hyperparameter Tuning, Statistical Validation.
