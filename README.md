@@ -17,3 +17,8 @@ Due to historical access updates on my previous computing environment, the code 
 * **Languages:** Python
 * **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn,Tensorflow,Keras
 * **Core Concepts:** Neural Networks,Exploratory Data Analysis (EDA), Feature Engineering, Model Training, Hyperparameter Tuning, Statistical Validation
+---
+
+## 📂 Repository Contents
+
+Tutku Tez 20240415_153025 - Kopya
